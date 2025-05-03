@@ -1,0 +1,9 @@
+# This is the build file of magma;
+
+main (`cli/test.cc`);
+out  (`cascrypt`);
+bin  (`build`);
+
+compile_arguments (`-I.`);
+
+make ();

@@ -1,0 +1,4 @@
+echo "Installing..."
+cp build/cascrypt /usr/local/bin
+echo "Done"
+echo ""
