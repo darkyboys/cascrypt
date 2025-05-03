@@ -3,7 +3,7 @@ CASCRYPT is an OpenSource program to highly compress a [CASCI](https://github.co
 
 ## ✅To get started , Do the installation
 Make sure that you have a following dependencise installed
- - magma , Visit https://github.com/darkboys/magma for more into
+ - magma , Visit https://github.com/darkyboys/magma for more into
  - gcc
  - git
 
